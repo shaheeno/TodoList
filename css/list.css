@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* todo app */
+#slider {
+    background-color: chocolate;
+    height: 900px;
+    width: 100%;
+}
+#slider .alpha{
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 900px;
+}
+.h{
+ list-style: none;
+ list-style: none;
+ color: white;
+}
+.i{
+    list-style: none;
+    list-style: none;
+    color: white;
+}
+#slider .formes{
+    background-color:black;
+    border: 3px solid red;
+    height: 600px;
+    width: 400px;
+    margin-left: 600px;
+   padding-top: 50px;
+    padding-left: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+#inp{
+    font-size: 30px;
+    width: 90%;
+}
+#inp1{
+    font-size: 30px;
+    width: 90%;
+}
+.btn{
+   margin-left: 5px;
+   margin-top: 5px;
+   margin-bottom: 4px;
+   
+}
+#buttin{
+    padding: 12px;
+    background-color: black;
+    color: white;
+}
+#button{
+    font-size: 30px;
+    color: black;
+   
+}
+#button:hover{
+    background-color: blue;
+}
+.hee{
+    padding-left: 50px;
+    padding-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.display{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    background-color: red;
+    list-style: none;
+    padding-right: 20px;
+    text-decoration-line: none;
+    
+}
+.juu{
+   color:white;
+   float: right;
+}
+.juu:hover{
+    color:blue;
+ }
